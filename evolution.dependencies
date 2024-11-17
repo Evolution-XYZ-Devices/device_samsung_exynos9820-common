@@ -36,7 +36,9 @@
         "target_path": "vendor/samsung/exynos9820-common"
     },
     {
-        "repository": "kernel_samsung_exynos9820",
-        "target_path": "kernel/samsung/exynos9820"
+        "repository": "linux4-bringup-priv/android_kernel_samsung_exynos9820",
+        "target_path": "kernel/samsung/exynos9820",
+        "branch": "lineage-22.0",
+        "remote": "github"
     }
 ]
